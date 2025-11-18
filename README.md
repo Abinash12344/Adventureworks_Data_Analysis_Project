@@ -28,5 +28,13 @@ A **Star Schema** was created in Power BI containing:
 
 Proper one-to-many relationships were created between fact and dimension tables to support accurate reporting.  
 
+## 📈 Dashboard Features
 
+- Total Sales, Orders, and Profit KPIs
+- Sales by Category & Subcategory
+- Year-over-Year and Monthly trend visualizations
+- Regional sales map
+- Customer segmentation and performance
+- Profitability insights for top-selling products
+- Dynamic slicers for interactive filtering
 
